@@ -1,0 +1,17 @@
+Accept n number from user and calculate the sum of all the numbers between 1 and n including n
+
+Given a number count the total number of digits in a number
+
+Count the number of vowels in a given string
+
+Print each word on  a single line
+
+Display Uppercased A to Z using for loop
+
+Display Lowercased a to z using for loop
+
+Example: Factors of a Positive Integer
+
+Generate Multiplication Table using for loop
+
+Display Prime Numbers Between two Intervals
