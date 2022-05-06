@@ -1,3 +1,4 @@
 sout("HELLO")
 Scanner input ...
 Hello
+Hello
