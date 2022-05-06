@@ -1,5 +1,6 @@
-sout("HELLO")
+soutHELLO")
 Scanner input ...
 Added
+Hello 2
 Hello 3
-Hello
+
