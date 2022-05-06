@@ -1,4 +1,3 @@
 sout("HELLO")
-Line 2
-Line 3
+Scanner input ...
 Hello
